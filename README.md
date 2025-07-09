@@ -12,9 +12,9 @@ Automatically detect and remove uniform borders (e.g., white/black frames) from 
 ```
 your_project/
 ├── input/    
-│   └── example_input.jpg
+│   └──Images.jpg
 ├── output/
-│   └── example_output.jpg
+│   └──Images.jpg
 ├── border_utils.py
 ├── detect_borders.py
 ├── remove_borders.py
