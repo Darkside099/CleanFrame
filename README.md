@@ -30,7 +30,7 @@ your_project/
 ![Input](https://github.com/Darkside099/CleanFrame/blob/396893f2217fa05f165ca1a06e3a1d00ab2b7f26/input/IMG_1.jpg)
 
 ### Output Image (cropped)
-![Output](https://github.com/Darkside099/CleanFrame/output/IMG_1.jpg)
+![Output](https://github.com/Darkside099/CleanFrame/blob/7b8c2e09b513407a261593de8212253a6b281dc5/output/IMG_1.jpg).
 
 ---
 
