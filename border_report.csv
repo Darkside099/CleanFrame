@@ -1,0 +1,11 @@
+filename,top_border_px,bottom_border_px,left_border_px,right_border_px,border_sides
+IMG_1.jpg,237,237,194,194,"top, bottom, left, right"
+IMG_10.jpg,49,48,36,37,"top, bottom, left, right"
+IMG_2.jpg,39,38,29,63,"top, bottom, left, right"
+IMG_3.jpg,456,650,402,555,"top, bottom, left, right"
+IMG_4.jpg,59,2165,936,772,"top, bottom, left, right"
+IMG_5.jpg,15,1271,403,556,"top, bottom, left, right"
+IMG_6.jpg,36,3248,1003,1037,"top, bottom, left, right"
+IMG_7.jpg,220,118,225,264,"top, bottom, left, right"
+IMG_8.jpg,65,64,48,49,"top, bottom, left, right"
+IMG_9.jpg,185,201,185,400,"top, bottom, left, right"
