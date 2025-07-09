@@ -27,10 +27,10 @@ your_project/
 ## 🖼️ Example Input vs Output
 
 ### Input Image (with border)
-![Input](input/example_input.jpg)
+![Input](https://github.com/Darkside099/CleanFrame/input/IMG_1.jpg)
 
 ### Output Image (cropped)
-![Output](output/example_output.jpg)
+![Output](https://github.com/Darkside099/CleanFrame/output/IMG_1.jpg)
 
 ---
 
